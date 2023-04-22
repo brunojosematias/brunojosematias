@@ -16,9 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=brunojosematias&show_icons=true" />
 </picture>
 
-<a href="https://github.com/brunojosematias/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunojosematias&layout=compact&theme=tokyonight&repo=github-readme-stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunojosematias&layout=compact&theme=tokyonight&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
-<a href="https://github.com/brunojosematias/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunojosematias&repo=convoychat" />
 </a>
