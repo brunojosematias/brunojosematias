@@ -15,4 +15,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunojosematias&layout=compact&theme=tokyonight&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
-</a>
+
+<div style="display: inline_block"><br>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+</div>
