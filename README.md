@@ -1,6 +1,5 @@
 ### Olá! Eu sou Bruno Matias
 
-<div style="display: flex">
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=brunojosematias&show_icons=true&theme=tokyonight"
@@ -16,7 +15,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunojosematias&layout=compact&theme=tokyonight&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
